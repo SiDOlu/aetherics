@@ -77,7 +77,7 @@ The system follows a decoupled, API-First architecture:
 - [ ] **Admin Dashboard:** Build the UI for device provisioning and feature toggle switching.
 - [ ] **End-User App:** Basic "Safe/Alert" status view and historical vital trends.
 
-### Phase 5: Validation & MVP Hardening (The "Seal")
+### Phase 5: Validation & MVP Hardening (The "Seal") - Work Started 2026-07-03
 *Goal: Verify against the Definition of Success.*
 - [ ] **Protocol Stress Test:** Simulate network drops to verify WebSocket $ightarrow$ HTTP transition.
 - [ ] **False Positive Audit:** Test BMI calibration against different user profiles.

@@ -1,0 +1,22 @@
+.card {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  padding: 15px;
+  border-radius: 8px;
+  color: var(--text-color);
+}
+
+.status-indicator {
+  font-weight: bold;
+  color: var(--accent-color);
+}
+
+.status-badge {
+  padding: 5px 10px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+.connected { background-color: #006600; }
+.polling { background-color: #cc6600; }
+.disconnected { background-color: #cc0000; }
